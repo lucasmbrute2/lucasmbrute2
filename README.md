@@ -1,4 +1,4 @@
-### Olá!!! Pode me chamar de Lucas.
+### Olá, eu sou o Lucas!
 
 - 🔭 Em busca do primeiro emprego na área de programação.
 - 🌱 Atualmente estudo ReactJS, NestJS e Typescript.
