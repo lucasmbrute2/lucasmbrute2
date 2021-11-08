@@ -3,7 +3,6 @@
 - 🔭 Em busca do primeiro emprego na área de programação.
 - 🌱 Atualmente estudo ReactJS, NestJS e Typescript.
 - 📫 Fale comigo aqui: lucasmbrute614@gmail.com
-- ⚡ Um fato interessante: Adoro teatro!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
