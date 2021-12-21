@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas!
 
-- 🔭 Em busca do primeiro emprego na área de programação.
+- 🔭 Atuo como Desenvolvedor Full Stack
 - 🌱 Atualmente estudo ReactJS, NestJS e Typescript.
 - 📫 Fale comigo aqui: lucasmbrute614@gmail.com
 
