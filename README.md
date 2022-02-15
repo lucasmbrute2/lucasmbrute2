@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas!
 
 - 🔭 Atuo como Desenvolvedor Full Stack
-- 🌱 Atualmente estudo ReactJS, NestJS e Typescript.
+- 🌱 Trabalho na OSF Digital, por ser uma empresa global, utilizamos o inglês como língua primária.
 - 📫 Fale comigo aqui: lucasmbrute614@gmail.com
 
 <div align="center">
