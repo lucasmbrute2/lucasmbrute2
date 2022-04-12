@@ -1,12 +1,15 @@
 <div style='display:flex'>
-  <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/277616146_1337233196770486_5362818992956203697_n.jpg?stp=dst-jpg_p75x225&_nc_cat=101&ccb=1-5&_nc_sid=aee45a&_nc_ohc=2AtEkeD6OTQAX9V9Yb_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIu_x2rpSY1vlWaDZH2A6F_oBAvCeM47YiPvtESdHC9cQ&oe=6278D075"/>
+  <div>
+    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/277616146_1337233196770486_5362818992956203697_n.jpg?stp=dst-jpg_p75x225&_nc_cat=101&ccb=1-        5&_nc_sid=aee45a&_nc_ohc=2AtEkeD6OTQAX9V9Yb_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIu_x2rpSY1vlWaDZH2A6F_oBAvCeM47YiPvtESdHC9cQ&oe=6278D075"/>
+  
+  </div>
+   <div>
+  ### Olá, eu sou o Lucas!
 
-
-### Olá, eu sou o Lucas!
-
-- 🔭 Atuo como Desenvolvedor Full Stack
-- 🌱 Trabalho na OSF Digital, por ser uma empresa global, utilizamos o inglês como língua primária.
-- 📫 Fale comigo aqui: lucasmbrute614@gmail.com
+  - 🔭 Atuo como Desenvolvedor Full Stack
+  - 🌱 Trabalho na OSF Digital, por ser uma empresa global, utilizamos o inglês como língua primária.
+  - 📫 Fale comigo aqui: lucasmbrute614@gmail.com
+   </div>
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmbrute2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
