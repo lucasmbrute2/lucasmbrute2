@@ -2,7 +2,7 @@
 <div>
     <img src="https://user-images.githubusercontent.com/68877260/169631638-86f003fb-53c5-4038-95d9-0f42bd4dc99a.jpg"/>
   
-   ### Olá, eu sou o Lucas!
+   ### Hello, call me Lucas!
 
   - 🔭 Working as Backend Developer NodeJS
   - 📫 Talk to me: lucasmbrute614@gmail.com
