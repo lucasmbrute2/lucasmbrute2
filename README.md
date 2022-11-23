@@ -4,9 +4,8 @@
   
    ### Olá, eu sou o Lucas!
 
-  - 🔭 Atuo como Desenvolvedor Backend NodeJS
-  - 🌱 Trabalho na OSF Digital, por ser uma empresa global, utilizamos o inglês como língua primária.
-  - 📫 Fale comigo aqui: lucasmbrute614@gmail.com
+  - 🔭 Working as Backend Developer NodeJS
+  - 📫 Talk to me: lucasmbrute614@gmail.com
   </div>
 
 <div align="center">
